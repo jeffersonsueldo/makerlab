@@ -1,0 +1,12 @@
+<!DOCTYPEhtml>
+<html>
+<head>=encabezado
+<title>=titulo de la pagina 
+<body>=cuerpo 
+<p>=parrafo
+<a>=
+<h1>,<h2>......<h6>
+<img>=imagen
+<ol>,<ul>,<li>=listados
+<b>,<strong>=negrita o fuente de la letra mas fuerte
+<i>,<em>

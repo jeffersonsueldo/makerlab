@@ -1,0 +1,18 @@
+.html
+<!doctypehtml>
+<html>
+ <head>
+   <link rel="stylesheet href="stylecss">
+   <link rel="icon" type="image/png">  
+</head>
+ <body>
+  <h1>encabezado </h1> 
+  <p>parrafo :v lorem.....</p>
+   <img src="ubicacion de la imagen">
+   <a href="nueva url" target="_blank">
+   <ol>
+      <li>item 1</li>
+      <li>item 2</li>
+      <li>item 3</li>
+  </body>
+ </html>

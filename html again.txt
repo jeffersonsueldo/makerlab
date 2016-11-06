@@ -1,0 +1,15 @@
+html maker lab
+hyper text mark up language
+cascading style sheet
+index.html
+<!doctype.html>
+<html>
+
+
+  <head>
+      <title>titulode ejem</title> 
+		</head>
+ 			<body>
+				<p>hola mundo</p>
+			</body>
+</html>
